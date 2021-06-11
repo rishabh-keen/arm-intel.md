@@ -14,7 +14,4 @@
 |**9**| SDIV - {Rd,} Rn, Rm <br> **Signed divide.Rd = Rn / Rm** |
 |**10**| UDIV - Rd, Rn, Rm, Ra <br> **UnSigned divide.Rd = Rn / Rm** |
 
-  </details>
-  
-  <details>
-  <summary> Implementation </summary>
+ 
