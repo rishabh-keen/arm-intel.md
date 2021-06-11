@@ -1,7 +1,7 @@
 
  <h1 align=center> ARM Instruction Set </h1>
   
-|Sr. No.| ARM Description |
+|Sr. No.| ARM |
 |:----:|:-----:|
 |**1**| ADD - {Rd,} Rn, Op2 <br> **Add.Rd = Rn + Op2** |
 |**2**| ADC - {Rd,} Rn, Op2 <br> **Add with carry.Rd = Rn + Op2 + Carry** |
