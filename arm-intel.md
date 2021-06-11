@@ -1,5 +1,5 @@
 
- <h1 align=center> ARM Instruction Set & Intel Instruction Set </h1>
+ <h1 align=center> ARM Instruction Set </h1>
   
 |Sr. No.| ARM Description |
 |:----:|:-----:|
