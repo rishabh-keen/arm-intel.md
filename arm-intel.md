@@ -16,4 +16,12 @@
 |**9**| SDIV - {Rd,} Rn, Rm <br> **Signed divide.Rd = Rn / Rm** |
 |**10**| UDIV - Rd, Rn, Rm, Ra <br> **UnSigned divide.Rd = Rn / Rm** |
 
+
+
+ <h1 align=center> Intel Instruction Set </h1>
+ 
+ <p align=center> Processor एक छोटी चिप होती है जो बोलने के लिए कंप्यूटर के इनपुट और आउटपुट communications प्रदान करती है। ARM Processor एक प्रकार का Architecture है और इसलिए उनके पास केवल एक निर्माता (creator) नहीं है। Apple और Android दोनों निर्माता इस तकनीक का उपयोग अपने मोबाइल उपकरणों में करते हैं जबकि Intel आमतौर पर कंप्यूटर में उपयोग किया जाता है। </p>
+
+
+
  
