@@ -23,5 +23,15 @@
  <p align=center> Processor एक छोटी चिप होती है जो बोलने के लिए कंप्यूटर के इनपुट और आउटपुट communications प्रदान करती है। ARM Processor एक प्रकार का Architecture है और इसलिए उनके पास केवल एक निर्माता (creator) नहीं है। Apple और Android दोनों निर्माता इस तकनीक का उपयोग अपने मोबाइल उपकरणों में करते हैं जबकि Intel आमतौर पर कंप्यूटर में उपयोग किया जाता है। </p>
 
 
+|Sr. No.| ARM |
+|:----:|:-----:|
+|**1**| MOV (copies data from one location to another) <br> **R1 ==> R2** |
+|**2**| MVI (Move Immediate DATA to Accumulator) <br> **R1 ==> 5700H** |
+|**3**| ADD (Accumulator Data + Register Data) <br> **A ==> A + R** |
+|**4**| SUB (Accumulator Data + Register Data) <br> **A ==> A - R** |
+|**5**| INR (Increment) <br> **R = R + 1** |
+|**6**| DCR (Decrement) <br> **R = R - 1** |
+|**7**| DCR (Decrement) <br> **R = R - 1** |
+|**8**| ADC (Accumulator Data + Carry <br> **R = R + Op2 + Carry** |
 
  
