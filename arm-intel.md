@@ -23,7 +23,7 @@
  <p align=center> Processor एक छोटी चिप होती है जो बोलने के लिए कंप्यूटर के इनपुट और आउटपुट communications प्रदान करती है। ARM Processor एक प्रकार का Architecture है और इसलिए उनके पास केवल एक निर्माता (creator) नहीं है। Apple और Android दोनों निर्माता इस तकनीक का उपयोग अपने मोबाइल उपकरणों में करते हैं जबकि Intel आमतौर पर कंप्यूटर में उपयोग किया जाता है। </p>
 
 
-|Sr. No.| ARM |
+|Sr. No.| 8086 |
 |:----:|:-----:|
 |**1**| MOV (copies data from one location to another) <br> **R1 ==> R2** |
 |**2**| MVI (Move Immediate DATA to Accumulator) <br> **R1 ==> 5700H** |
