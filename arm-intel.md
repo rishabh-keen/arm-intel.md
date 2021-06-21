@@ -32,5 +32,8 @@
 |**5**| INR (Increment) <br> **R = R + 1** |
 |**6**| DCR (Decrement) <br> **R = R - 1** |
 |**7**| ADC (Accumulator Data + Carry <br> **R = R + Op2 + Carry** |
+|**8**| PUSHA (put all the register into the stack) |
+|**9**| IN (Input to the port or copies a byte or word from **S** to **D**) |
+|**10**| OUTPUT (Output to the port or copies a byte or word from **D** to **S**) |
 
  
